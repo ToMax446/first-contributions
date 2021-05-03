@@ -278,6 +278,7 @@ Gavriel Frant
 - Jaavid25
 - [Drew Bayles] (https://github.com/dtbayles)
 - Elias Tokola
+- ToMax446
 - [Dibya Sadhukhan](https://github.com/DibyaSadhukhan)
 - [siva rama krishnan](https://github.com/siva-krish45)
 - [Shatakshi gupta](https://github.com/Shatakshi0805)
